@@ -681,7 +681,7 @@ Js TABLE OF CONTENTS
            });
 
        }); // End Document Ready Function
-   }, 2000)
+   }, 1000)
 
     function loader() {
         $(window).on('load', function () {

@@ -8,9 +8,7 @@ export default defineConfig({
             input: ['resources/js/app.js', 'resources/css/app.css'],
             refresh: true,
         }),
-        vue({
-            refresh: true,
-        }),
+        vue()
     ],
     server: {
         host: 'localhost',

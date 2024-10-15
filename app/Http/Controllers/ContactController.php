@@ -27,7 +27,7 @@ class ContactController extends Controller
             Mail::send('emails.contact', compact('name', 'email', 'subject', 'messageBody'), function ($message) use ($email, $name, $subject) {
                 $message->from(config('mail.from.address'), config('mail.from.name'));
                 $message->replyTo($email, $name);
-                $message->to('rahatuddin786@gmail.com')->subject($subject);
+                $message->to('rkpharma.bd@gmail.com')->subject($subject);
             });
 
             // Return success response

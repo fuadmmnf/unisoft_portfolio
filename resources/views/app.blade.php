@@ -82,6 +82,7 @@
 <div class="mouse-cursor cursor-inner"></div>
 
 <div id="app"></div>
+
 @vite('resources/js/app.js')
 
 <!--<< All JS Plugins >>-->
@@ -105,7 +106,7 @@
 <!--<< Wow Animation Js >>-->
 <script src="{{ asset('vendor/assets/js/wow.min.js') }}"></script>
 <!--<< Main.js >>-->
-{{--<script src="{{ asset('vendor/assets/js/main.js') }}"></script>--}}
+<script src="{{ asset('vendor/assets/js/main.js') }}"></script>
 
 </body>
 
