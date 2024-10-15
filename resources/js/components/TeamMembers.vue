@@ -5,9 +5,9 @@
                 <div class="col-xl-7">
                     <div class="section-title-area">
                         <div class="section-title mxw-650">
-                            <div class="subtitle"> <img src="../../assets/images/icon/arrowLeft.svg" alt="icon"> <span> Team
+                            <div class="subtitle"> <img src="/vendor/assets/img/icon/arrowLeft.svg" alt="icon"> <span> Team
                                     Members
-                                </span><img src="../../assets/images/icon/arrowRight.svg" alt="icon"></div>
+                                </span><img src="/vendor/assets/img/icon/arrowRight.svg" alt="icon"></div>
                             <h2 class="title">Our Dedicated Team Members</h2>
                         </div>
                     </div>
@@ -26,7 +26,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="single-team-items">
                         <div class="team-image">
-                            <img src="../../assets/images/team/04.jpg" alt="team-img">
+                            <img src="/vendor/assets/img/team/04.jpg" alt="team-img">
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -48,7 +48,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                     <div class="single-team-items">
                         <div class="team-image">
-                            <img src="../../assets/images/team/05.jpg" alt="team-img">
+                            <img src="/vendor/assets/img/team/05.jpg" alt="team-img">
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -70,7 +70,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                     <div class="single-team-items">
                         <div class="team-image">
-                            <img src="../../assets/images/team/06.jpg" alt="team-img">
+                            <img src="/vendor/assets/img/team/06.jpg" alt="team-img">
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -92,7 +92,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".9s">
                     <div class="single-team-items">
                         <div class="team-image">
-                            <img src="../../assets/images/team/07.jpg" alt="team-img">
+                            <img src="/vendor/assets/img/team/07.jpg" alt="team-img">
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>

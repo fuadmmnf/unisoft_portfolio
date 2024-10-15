@@ -4,18 +4,18 @@
         <breadcrumb :currentTitle="pageTitle" :breadcrumbItems="breadcrumbs"  ></breadcrumb>
         <!-- About Section Start -->
         <section class="about-section section-padding fix bg-cover"
-                 style="background-image: url('../../assets/images/service/service-bg-2.jpg');">
+                 style="background-image: url('/vendor/assets/img/service/service-bg-2.jpg');">
             <div class="container">
                 <div class="about-wrapper style-2">
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="about-image-items">
                                 <div class="circle-shape">
-                                    <img src="../../assets/images/about/circle.png" alt="shape-img">
+                                    <img src="/vendor/assets/img/about/circle.png" alt="shape-img">
                                 </div>
                                 <div class="counter-shape float-bob-y">
                                     <div class="icon">
-                                        <img src="../../assets/images/about/icon-1.svg" alt="icon-img">
+                                        <img src="/vendor/assets/img/about/icon-1.svg" alt="icon-img">
                                     </div>
                                     <div class="content">
                                         <h3><span class="count">5</span>Years</h3>
@@ -23,9 +23,9 @@
                                     </div>
                                 </div>
                                 <div class="about-image-1 bg-cover wow fadeInLeft" data-wow-delay=".3s"
-                                     style="background-image: url('../../assets/images/about/03.jpg');">
+                                     style="background-image: url('/vendor/assets/img/about/03.jpg');">
                                     <div class="about-image-2 wow fadeInUp" data-wow-delay=".5s">
-                                        <img src="../../assets/images/about/04.jpg" alt="about-img">
+                                        <img src="/vendor/assets/img/about/04.jpg" alt="about-img">
                                     </div>
                                 </div>
                             </div>
@@ -33,9 +33,9 @@
                         <div class="col-lg-6 mt-4 mt-lg-0">
                             <div class="about-content">
                                 <div class="section-title mb-3 mxw-650">
-                                    <div class="subtitle"> <img src="../../assets/images/icon/arrowLeft.svg" alt="icon"> <span>ABOUT
+                                    <div class="subtitle"> <img src="/vendor/assets/img/icon/arrowLeft.svg" alt="icon"> <span>ABOUT
                                         UniSoft
-                                    </span><img src="../../assets/images/icon/arrowRight.svg" alt="icon"></div>
+                                    </span><img src="/vendor/assets/img/icon/arrowRight.svg" alt="icon"></div>
                                     <h2 class="title"> We Are Increasing Business Success With <span>Technology</span> </h2>
                                 </div>
                                 <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
@@ -44,7 +44,7 @@
                                 <div class="about-icon-items">
                                     <div class="icon-items wow fadeInUp" data-wow-delay=".7s">
                                         <div class="icon">
-                                            <img src="../../assets/images/about/icon-4.svg" alt="icon-img">
+                                            <img src="/vendor/assets/img/about/icon-4.svg" alt="icon-img">
                                         </div>
                                         <div class="content">
                                             <h4>Our Mission</h4>
@@ -55,7 +55,7 @@
                                     </div>
                                     <div class="icon-items wow fadeInUp" data-wow-delay=".9s">
                                         <div class="icon">
-                                            <img src="../../assets/images/about/icon-5.svg" alt="icon-img">
+                                            <img src="/vendor/assets/img/about/icon-5.svg" alt="icon-img">
                                         </div>
                                         <div class="content">
                                             <h4>Our Vision</h4>

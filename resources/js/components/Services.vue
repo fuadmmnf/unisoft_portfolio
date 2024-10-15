@@ -1,12 +1,12 @@
 <template>
     <section class="service-section-3 pb-0 fix section-padding bg-cover"
-             style="background-image: url('../../assets/images/service/service-bg-3.jpg');">
+             style="background-image: url('/vendor/assets/img/service/service-bg-3.jpg');">
         <div class="container">
             <div class="row d-flex align-items-end justify-content-between mb-20">
                 <div class="col-xl-7">
                     <div class="section-title mxw-650">
-                        <div class="subtitle"> <img src="../../assets/images/icon/arrowLeft.svg" alt="icon"> <span> What We Do
-                     </span><img src="../../assets/images/icon/arrowRight.svg" alt="icon"></div>
+                        <div class="subtitle"> <img src="/vendor/assets/img/icon/arrowLeft.svg" alt="icon"> <span> What We Do
+                     </span><img src="/vendor/assets/img/icon/arrowRight.svg" alt="icon"></div>
                         <h2 class="title"> Using Technology to Address Your IT Needs</h2>
                     </div>
                 </div>
@@ -22,14 +22,14 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="../../assets/images/service/02.jpg" alt="service-img">
+                            <img src="/vendor/assets/img/service/02.jpg" alt="service-img">
                         </div>
                         <div class="icon-2">
-                            <img src="../../assets/images/service/icon/s-icon-1.svg" alt="img">
+                            <img src="/vendor/assets/img/service/icon/s-icon-1.svg" alt="img">
                         </div>
                         <div class="service-content">
                             <div class="icon">
-                                <img src="../../assets/images/service/icon/s-icon-1.svg" alt="img">
+                                <img src="/vendor/assets/img/service/icon/s-icon-1.svg" alt="img">
                             </div>
                             <h4>
                                 <a href="service-details.html">Database Security</a>
@@ -47,14 +47,14 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="../../assets/images/service/03.jpg" alt="service-img">
+                            <img src="/vendor/assets/img/service/03.jpg" alt="service-img">
                         </div>
                         <div class="icon-2">
-                            <img src="../../assets/images/service/icon/s-icon-2.svg" alt="img">
+                            <img src="/vendor/assets/img/service/icon/s-icon-2.svg" alt="img">
                         </div>
                         <div class="service-content">
                             <div class="icon">
-                                <img src="../../assets/images/service/icon/s-icon-2.svg" alt="img">
+                                <img src="/vendor/assets/img/service/icon/s-icon-2.svg" alt="img">
                             </div>
                             <h4>
                                 <a href="service-details.html">IT Consultancy</a>
@@ -72,14 +72,14 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="../../assets/images/service/04.jpg" alt="service-img">
+                            <img src="/vendor/assets/img/service/04.jpg" alt="service-img">
                         </div>
                         <div class="icon-2">
-                            <img src="../../assets/images/service/icon/s-icon-4.svg" alt="img">
+                            <img src="/vendor/assets/img/service/icon/s-icon-4.svg" alt="img">
                         </div>
                         <div class="service-content">
                             <div class="icon">
-                                <img src="../../assets/images/service/icon/s-icon-5.svg" alt="img">
+                                <img src="/vendor/assets/img/service/icon/s-icon-5.svg" alt="img">
                             </div>
                             <h4>
                                 <a href="service-details.html">App Development</a>
@@ -97,14 +97,14 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="../../assets/images/service/05.jpg" alt="service-img">
+                            <img src="/vendor/assets/img/service/05.jpg" alt="service-img">
                         </div>
                         <div class="icon-2">
-                            <img src="../../assets/images/service/icon/s-icon-3.svg" alt="img">
+                            <img src="/vendor/assets/img/service/icon/s-icon-3.svg" alt="img">
                         </div>
                         <div class="service-content">
                             <div class="icon">
-                                <img src="../../assets/images/service/icon/s-icon-3.svg" alt="img">
+                                <img src="/vendor/assets/img/service/icon/s-icon-3.svg" alt="img">
                             </div>
                             <h4>
                                 <a href="service-details.html">Database Security</a>

@@ -7,27 +7,27 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="brand-image">
-                                <img src="../../assets/images/brand.png" alt="brand-img">
+                                <img src="/vendor/assets/img/brand.png" alt="brand-img">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand-image">
-                                <img src="../../assets/images/brand.png" alt="brand-img">
+                                <img src="/vendor/assets/img/brand.png" alt="brand-img">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand-image">
-                                <img src="../../assets/images/brand.png" alt="brand-img">
+                                <img src="/vendor/assets/img/brand.png" alt="brand-img">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand-image">
-                                <img src="../../assets/images/brand.png" alt="brand-img">
+                                <img src="/vendor/assets/img/brand.png" alt="brand-img">
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="brand-image">
-                                <img src="../../assets/images/brand.png" alt="brand-img">
+                                <img src="/vendor/assets/img/brand.png" alt="brand-img">
                             </div>
                         </div>
                     </div>

@@ -5,9 +5,9 @@
       <section class="service-section fix section-padding">
           <div class="container">
               <div class="section-title title-area  mx-auto mb-20">
-                  <div class="subtitle d-flex justify-content-center"> <img src="../../assets/images/icon/arrowLeft.svg"
+                  <div class="subtitle d-flex justify-content-center"> <img src="/vendor/assets/img/icon/arrowLeft.svg"
                                                                             alt="icon"> <span> OUR SERVICES
-                    </span><img src="../../assets/images/icon/arrowRight.svg" alt="icon"></div>
+                    </span><img src="/vendor/assets/img/icon/arrowRight.svg" alt="icon"></div>
                   <h2 class="title text-center"> We Provide the Best Quality </h2>
               </div>
               <div class="service-wrapper mb-0">
@@ -15,7 +15,7 @@
                       <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                           <div class="service-box-items box-shadow">
                               <div class="icon">
-                                  <img src="../../assets/images/service/icon/s-icon-1.svg" alt="icon-img">
+                                  <img src="/vendor/assets/img/service/icon/s-icon-1.svg" alt="icon-img">
                               </div>
                               <div class="content">
                                   <h4>
@@ -36,7 +36,7 @@
                       <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                           <div class="service-box-items box-shadow active">
                               <div class="icon">
-                                  <img src="../../assets/images/service/icon/s-icon-2.svg" alt="icon-img">
+                                  <img src="/vendor/assets/img/service/icon/s-icon-2.svg" alt="icon-img">
                               </div>
                               <div class="content">
                                   <h4>
@@ -57,7 +57,7 @@
                       <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                           <div class="service-box-items box-shadow">
                               <div class="icon">
-                                  <img src="../../assets/images/service/icon/s-icon-3.svg" alt="icon-img">
+                                  <img src="/vendor/assets/img/service/icon/s-icon-3.svg" alt="icon-img">
                               </div>
                               <div class="content">
                                   <h4>
@@ -78,7 +78,7 @@
                       <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".9s">
                           <div class="service-box-items box-shadow">
                               <div class="icon">
-                                  <img src="../../assets/images/service/icon/s-icon-4.svg" alt="icon-img">
+                                  <img src="/vendor/assets/img/service/icon/s-icon-4.svg" alt="icon-img">
                               </div>
                               <div class="content">
                                   <h4>
@@ -99,7 +99,7 @@
                       <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                           <div class="service-box-items box-shadow">
                               <div class="icon">
-                                  <img src="../../assets/images/service/icon/s-icon-10.svg" alt="icon-img">
+                                  <img src="/vendor/assets/img/service/icon/s-icon-10.svg" alt="icon-img">
                               </div>
                               <div class="content">
                                   <h4>
@@ -120,7 +120,7 @@
                       <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                           <div class="service-box-items box-shadow">
                               <div class="icon">
-                                  <img src="../../assets/images/service/icon/s-icon-11.svg" alt="icon-img">
+                                  <img src="/vendor/assets/img/service/icon/s-icon-11.svg" alt="icon-img">
                               </div>
                               <div class="content">
                                   <h4>
@@ -141,7 +141,7 @@
                       <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                           <div class="service-box-items box-shadow">
                               <div class="icon">
-                                  <img src="../../assets/images/service/icon/s-icon-12.svg" alt="icon-img">
+                                  <img src="/vendor/assets/img/service/icon/s-icon-12.svg" alt="icon-img">
                               </div>
                               <div class="content">
                                   <h4>
@@ -162,7 +162,7 @@
                       <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".9s">
                           <div class="service-box-items box-shadow">
                               <div class="icon">
-                                  <img src="../../assets/images/service/icon/s-icon-13.svg" alt="icon-img">
+                                  <img src="/vendor/assets/img/service/icon/s-icon-13.svg" alt="icon-img">
                               </div>
                               <div class="content">
                                   <h4>
@@ -191,14 +191,14 @@
           <div class="container">
               <div class="contact-wrapper">
                   <div class="arrow-shape">
-                      <img src="../../assets/images/arrow-shape.png" alt="shape-img">
+                      <img src="/vendor/assets/img/arrow-shape.png" alt="shape-img">
                   </div>
                   <div class="row">
                       <div class="col-lg-6">
                           <div class="contact-image wow fadeInUp" data-wow-delay=".4s">
-                              <img src="../../assets/images/contact.jpg" alt="contact-img">
+                              <img src="/vendor/assets/img/contact.jpg" alt="contact-img">
                               <div class="cricle-shape">
-                                  <img src="../../assets/images/circle-shape.png" alt="shape-img">
+                                  <img src="/vendor/assets/img/circle-shape.png" alt="shape-img">
                               </div>
 
                           </div>
@@ -206,9 +206,9 @@
                       <div class="col-lg-6">
                           <div class="contact-content">
                               <div class="section-title mb-40 mxw-650">
-                                  <div class="subtitle"> <img src="../../assets/images/icon/arrowLeftWhite.svg" alt="icon"> <span
+                                  <div class="subtitle"> <img src="/vendor/assets/img/icon/arrowLeftWhite.svg" alt="icon"> <span
                                       class="text-white"> TALK TO US
-                                    </span><img src="../../assets/images/icon/arrowRightWhite.svg" alt="icon"></div>
+                                    </span><img src="/vendor/assets/img/icon/arrowRightWhite.svg" alt="icon"></div>
                                   <h2 class="title text-white"> How May We Help You! </h2>
                               </div>
 

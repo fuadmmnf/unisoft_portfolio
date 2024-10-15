@@ -70,7 +70,7 @@
                             <div class="widget footer-widget wow fadeInUp" data-wow-delay=".6s">
                                 <div class="gt-widget-about">
                                     <div class="about-logo">
-                                        <a href="index.html"><img src="../../assets/images/" alt="Unisoft"></a>
+<!--                                        <a href="index.html"><img src="/vendor/assets/img/" alt="Unisoft"></a>-->
                                     </div>
                                     <p class="about-text"> UniSoft is a fast-growing startup software company in Bangladesh that
                                         specializes in developing websites, Android apps, iOS apps, and web-based applications.

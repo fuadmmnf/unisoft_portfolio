@@ -3,7 +3,7 @@
         <!-- Hero Section Start -->
         <section class="hero-section fix hero-3">
             <div class="bottom-shape">
-                <img src="../../assets/images/hero/bottom-shape.png" alt="shape-img" />
+                <img src="/vendor/assets/img/hero/bottom-shape.png" alt="shape-img" />
             </div>
             <div class="array-button">
                 <button class="array-prev"><i class="fal fa-arrow-right"></i></button>
@@ -14,13 +14,13 @@
                     <div class="swiper-slide">
                         <div
                             class="slider-image bg-cover"
-                            style="background-image: url('../../assets/images/hero/hero-2.jpg')"
+                            style="background-image: url('/vendor/assets/img/hero/hero-2.jpg')"
                         >
                             <div class="mask-shape" data-animation="slideInDown" data-duration="3s" data-delay="2s">
-                                <img src="../../assets/images/hero/mask-shape-2.png" alt="shape-img" />
+                                <img :src="'/vendor/assets/img/hero/mask-shape-2.png'" alt="shape-img" />
                             </div>
                             <div class="border-shape" data-animation="slideInRight" data-duration="3s" data-delay="2.2s">
-                                <img src="../../assets/images/hero/border-shape.png" alt="shape-img" />
+                                <img src="/vendor/assets/img/hero/border-shape.png" alt="shape-img" />
                             </div>
                         </div>
                         <div class="container">
@@ -68,13 +68,13 @@
                     <div class="swiper-slide">
                         <div
                             class="slider-image bg-cover"
-                            style="background-image: url('../../assets/images/hero/hero-1.jpg')"
+                            style="background-image: url('/vendor/assets/img/hero/hero-1.jpg')"
                         >
                             <div class="mask-shape" data-animation="slideInDown" data-duration="3s" data-delay="2s">
-                                <img src="../../assets/images/hero/mask-shape-2.png" alt="shape-img" />
+                                <img src="/vendor/assets/img/hero/mask-shape-2.png" alt="shape-img" />
                             </div>
                             <div class="border-shape" data-animation="slideInRight" data-duration="3s" data-delay="2.2s">
-                                <img src="../../assets/images/hero/border-shape.png" alt="shape-img" />
+                                <img src="/vendor/assets/img/hero/border-shape.png" alt="shape-img" />
                             </div>
                         </div>
                         <div class="container">
@@ -129,21 +129,21 @@
                         <div class="col-lg-6 wow fadeInUp" data-wow-delay=".4s">
                             <div class="about-image">
                                 <div class="shape-image">
-                                    <img src="../../assets/images/about/shape.png" alt="shape-img">
+                                    <img src="/vendor/assets/img/about/shape.png" alt="shape-img">
                                 </div>
                                 <div class="circle-shape">
-                                    <img src="../../assets/images/about/circle.png" alt="shape-img">
+                                    <img src="/vendor/assets/img/about/circle.png" alt="shape-img">
                                 </div>
-                                <img src="../../assets/images/about/05.png" alt="about-img">
+                                <img src="/vendor/assets/img/about/05.png" alt="about-img">
 
                             </div>
                         </div>
                         <div class="col-lg-6 mt-4 mt-lg-0">
                             <div class="about-content">
                                 <div class="section-title mb-3 mxw-650">
-                                    <div class="subtitle"> <img src="../../assets/images/icon/arrowLeft.svg" alt="icon"> <span>ABOUT
+                                    <div class="subtitle"> <img src="/vendor/assets/img/icon/arrowLeft.svg" alt="icon"> <span>ABOUT
                               UNISOFT
-                           </span><img src="../../assets/images/icon/arrowRight.svg" alt="icon"></div>
+                           </span><img src="/vendor/assets/img/icon/arrowRight.svg" alt="icon"></div>
                                     <h2 class="title"> Shaping the Future with Custom Digital Solutions</h2>
                                 </div>
                                 <p class="wow fadeInUp" data-wow-delay=".5s">
