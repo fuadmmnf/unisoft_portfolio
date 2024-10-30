@@ -6,29 +6,21 @@
                     <ul class="marqee-list d-flex">
                         <li class="marquee-item style-2">
                             <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Cyber Security</span>
+                            class="text-slider text-style">Web App Development</span>
                             <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">IT Solution</span>
+                            class="text-slider text-style">Mobile App Development</span>
                             <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Technology</span>
+                            class="text-slider text-style">IT Consultancy</span>
                             <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Data Security</span>
+                            class="text-slider text-style">ERP Solutions</span>
                             <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Cyber Security</span>
+                            class="text-slider text-style">E-Commerce Development</span>
                             <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">IT Solution</span>
+                            class="text-slider text-style">Government Solutions</span>
                             <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Technology</span>
+                            class="text-slider text-style">Digital Marketing</span>
                             <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Data Security</span>
-                            <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Cyber Security</span>
-                            <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">IT Solution</span>
-                            <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Technology</span>
-                            <span class="text-slider"><img src="/vendor/assets/img/asterisk.svg" alt="img"></span><span
-                            class="text-slider text-style">Data Security</span>
+                            class="text-slider text-style">Data Analysis</span>
                         </li>
                     </ul>
                 </div>

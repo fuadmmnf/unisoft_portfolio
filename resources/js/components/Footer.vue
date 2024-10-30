@@ -17,7 +17,7 @@
                     <div class="content">
                         <p>Address</p>
                         <h3>
-                            4648 Rocky Road Philadelphia PA
+                            62/1, Tejturi Bazar, East Razbazar, Dhaka
                         </h3>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                     <div class="content">
                         <p>Send Email</p>
                         <h3>
-                            <a href="mailto:infotech@gmail.com">info@exmple.com</a>
+                            <a href="mailto:infotech@gmail.com">unisoft360@gmail.com</a>
                         </h3>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                     <div class="content">
                         <p>Call Emergency</p>
                         <h3>
-                            <a href="tel:+2085550112">+88 0123 654 99</a>
+                            <a href="tel:+2085550112">+8801724141211</a>
                         </h3>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                             <div class="widget footer-widget wow fadeInUp" data-wow-delay=".6s">
                                 <div class="gt-widget-about">
                                     <div class="about-logo">
-<!--                                        <a href="index.html"><img src="/vendor/assets/img/" alt="Unisoft"></a>-->
+                                        <a href="/"><img src="/vendor/assets/img/logo.png" alt="Unisoft"></a>
                                     </div>
                                     <p class="about-text"> UniSoft is a fast-growing startup software company in Bangladesh that
                                         specializes in developing websites, Android apps, iOS apps, and web-based applications.
@@ -81,22 +81,21 @@
                         </div>
                         <div class="col-xl-3 col-md-6 col-12">
                             <div class="widget widget_nav_menu footer-widget wow fadeInUp" data-wow-delay="1s">
-                                <h3 class="widget_title">Quick Links</h3>
+                                <h3 class="widget_title">Our Product Links</h3>
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
-                                        <li>
-                                            <router-link to="/about"><i class="fa-solid fa-chevrons-right"></i>
-                                                About</router-link>
+                                        <li><a href="https://dokankhata.com/"><i
+                                            class="fa-solid fa-chevrons-right"></i>DokanKhata</a>
                                         </li>
-                                        <li> <router-link to="/our-service"><i class="fa-solid fa-chevrons-right"></i>
-                                            Services</router-link>
+                                        <li><a href="https://play.google.com/store/apps/details?id=com.orbachinujbuk.bd_helpline&hl=bn"><i class="fa-solid fa-chevrons-right"></i>Infoline - BD Smart Seba</a>
+                                        </li>
+                                        <li><a
+                                            href="https://play.google.com/store/apps/details?id=innovabd.tech.dokankhata&hl=bn"><i
+                                            class="fa-solid fa-chevrons-right"></i>Dokankhata App</a>
+                                        </li>
+                                        <li><a href="https://play.google.com/store/apps/details?id=com.tangail.sheba&hl=bn"><i class="fa-solid fa-chevrons-right"></i>Smart Tangail</a>
                                         </li>
 
-                                        <li><router-link to="/our-service"><i class="fa-solid fa-chevrons-right"></i>
-                                            Faq</router-link></li>
-                                        <li><router-link to="/contact"><i class="fa-solid fa-chevrons-right"></i>
-                                            Contact Us</router-link>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -106,18 +105,16 @@
                                 <h3 class="widget_title">Quick Links</h3>
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
-                                        <li>
-                                            <router-link to="/about"><i class="fa-solid fa-chevrons-right"></i>
-                                                About</router-link>
+                                        <li><a href="about.html"><i class="fa-solid fa-chevrons-right"></i>Unisoft
+                                            About</a>
                                         </li>
-                                        <li> <router-link to="/our-service"><i class="fa-solid fa-chevrons-right"></i>
-                                            Services</router-link>
+                                        <li><a href="service.html"><i class="fa-solid fa-chevrons-right"></i>Our
+                                            Services</a>
                                         </li>
 
-                                        <li><router-link to="/our-service"><i class="fa-solid fa-chevrons-right"></i>
-                                            Faq</router-link></li>
-                                        <li><router-link to="/contact"><i class="fa-solid fa-chevrons-right"></i>
-                                            Contact Us</router-link>
+                                        <li><a href="faq.html"><i class="fa-solid fa-chevrons-right"></i>FAQ’S</a></li>
+                                        <li><a href="contact.html"><i class="fa-solid fa-chevrons-right"></i>Contact
+                                            Us</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -129,17 +126,17 @@
                                 <div class="checklist style2">
                                     <ul class="ps-0">
                                         <li class="text-white"><i class="fa-solid fa-envelope"></i></li>
-                                        <li class="text-white">info@example.com</li>
+                                        <li class="text-white">unisoft360@gmail.com</li>
                                     </ul>
                                     <ul class="ps-0">
                                         <li class="text-white"><i class="fa-solid fa-phone"></i></li>
-                                        <li class="text-white">+208-6666-0112</li>
+                                        <li class="text-white">+8801724141211</li>
                                     </ul>
                                     <div class="gt-social style2">
-                                        <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
-                                        <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
-                                        <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                                        <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -153,23 +150,19 @@
                 <div class="copyright-layout">
                     <div class="layout-text wow fadeInUp" data-wow-delay=".3s">
                         <p class="copyright">
-                            <i class="fal fa-copyright"></i> All Copyright 2024 by <router-link to="/">Unisoft</router-link>
+                            <i class="fal fa-copyright"></i> All Copyright 2024 by <a href="index.html">Unisoft</a>
                         </p>
                     </div>
                     <div class="layout-link wow fadeInUp" data-wow-delay=".6s">
                         <div class="link-wrapper">
-                            <router-link to="">Terms &amp; Condition</router-link>
-                            <router-link to="">Privacy Policy</router-link>
-
+                            <a href="contact.html">Terms &amp; Condition </a>
+                            <a href="contact.html">Privacy Policy</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
-
-
-
 </template>
 <script setup>
 </script>

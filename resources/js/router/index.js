@@ -45,10 +45,6 @@ router.beforeEach((to, from, next) => {
 })
 router.afterEach(() => {
 
-    // Track your console :)
-    console.log('Hi After load');
-
-
     rem_script('/vendor/assets/js/main.js');
 
 })

@@ -195,7 +195,7 @@
                                         <div class="content">
                                             <span>Call Us Now</span>
                                             <h5>
-                                                <a href="tel:+2085550112">+208-555-0112</a>
+                                                <a href="tel:+8801724141211">+8801724141211</a>
                                             </h5>
                                         </div>
                                     </div>

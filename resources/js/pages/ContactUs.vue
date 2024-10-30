@@ -26,7 +26,7 @@
                                         <div class="content">
                                             <p>Call Us 7/24</p>
                                             <h3>
-                                                <a href="tel:+2085550112">+208-555-0112</a>
+                                                <a href="tel:+8801724141211">+8801724141211</a>
                                             </h3>
                                         </div>
                                     </div>
@@ -48,7 +48,7 @@
                                         <div class="content">
                                             <p>Make a Quote</p>
                                             <h3>
-                                                <a href="mailto:infotech@gmail.com">Infotech@gmail.com</a>
+                                                <a href="mailto:unisoft360@gmail.com">unisoft360@gmail.com</a>
                                             </h3>
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@
                                         <div class="content">
                                             <p>Location</p>
                                             <h3>
-                                                4517 Washington ave. <br> test
+                                                62/1, Tejturi Bazar, <br>East Razbazar, Dhaka
                                             </h3>
                                         </div>
                                     </div>
@@ -118,9 +118,7 @@
         <div class="map-section">
             <div class="map-items">
                 <div class="googpemap">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6678.7619084840835!2d144.9618311901502!3d-37.81450084255415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b4758afc1d%3A0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd"
-                        style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.7801855518615!2d90.3918163!3d23.7552168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8a24843432f%3A0xb5e88d8edd8e5a51!2s62%2C%201%20Tejturi%20Bazar%20Rd%2C%20Dhaka%201215!5e0!3m2!1sen!2sbd!4v1730289218634!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>

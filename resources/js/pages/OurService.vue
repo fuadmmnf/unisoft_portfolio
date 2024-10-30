@@ -20,11 +20,11 @@
                               <div class="content">
                                   <h4>
                                       <a href="service-details.html">
-                                          Database Security
+                                          Web App Development
                                       </a>
                                   </h4>
                                   <p>
-                                      Mauris ultrices ligula eget volutpat aliquet nullam
+                                      Crafting scalable, interactive web applications tailored to drive business growth.
                                   </p>
                                   <a href="service-details.html" class="theme-btn-2 mt-3">
                                       read More
@@ -41,11 +41,11 @@
                               <div class="content">
                                   <h4>
                                       <a href="service-details.html">
-                                          IT Consultancy
+                                          Mobile App Development
                                       </a>
                                   </h4>
                                   <p>
-                                      Mauris ultrices ligula eget volutpat aliquet nullam
+                                      Developing user-friendly mobile apps to enhance digital reach and customer engagement.
                                   </p>
                                   <a href="service-details.html" class="theme-btn-2 mt-3">
                                       read More
@@ -62,11 +62,11 @@
                               <div class="content">
                                   <h4>
                                       <a href="service-details.html">
-                                          Cyber Security
+                                          IT Consultancy
                                       </a>
                                   </h4>
                                   <p>
-                                      Mauris ultrices ligula eget volutpat aliquet nullam
+                                      Providing expert guidance to optimize technology strategies and streamline operations.
                                   </p>
                                   <a href="service-details.html" class="theme-btn-2 mt-3">
                                       read More
@@ -83,11 +83,11 @@
                               <div class="content">
                                   <h4>
                                       <a href="service-details.html">
-                                          App Development
+                                          ERP Solutions
                                       </a>
                                   </h4>
                                   <p>
-                                      Mauris ultrices ligula eget volutpat aliquet nullam
+                                      Offering comprehensive ERP systems to automate and manage enterprise processes seamlessly.
                                   </p>
                                   <a href="service-details.html" class="theme-btn-2 mt-3">
                                       read More
@@ -104,11 +104,11 @@
                               <div class="content">
                                   <h4>
                                       <a href="service-details.html">
-                                          UI/UX Design
+                                          E-Commerce Development
                                       </a>
                                   </h4>
                                   <p>
-                                      Mauris ultrices ligula eget volutpat aliquet nullam
+                                      Building dynamic e-commerce platforms to boost online sales and customer experience.
                                   </p>
                                   <a href="service-details.html" class="theme-btn-2 mt-3">
                                       read More
@@ -125,11 +125,11 @@
                               <div class="content">
                                   <h4>
                                       <a href="service-details.html">
-                                          IT Management
+                                          Government Solutions
                                       </a>
                                   </h4>
                                   <p>
-                                      Mauris ultrices ligula eget volutpat aliquet nullam
+                                      Delivering secure, efficient digital solutions designed for government institutions.
                                   </p>
                                   <a href="service-details.html" class="theme-btn-2 mt-3">
                                       read More
@@ -150,7 +150,7 @@
                                       </a>
                                   </h4>
                                   <p>
-                                      Mauris ultrices ligula eget volutpat aliquet nullam
+                                      Enhancing online presence through strategic digital marketing and engagement campaigns.
                                   </p>
                                   <a href="service-details.html" class="theme-btn-2 mt-3">
                                       read More
@@ -171,7 +171,7 @@
                                       </a>
                                   </h4>
                                   <p>
-                                      Mauris ultrices ligula eget volutpat aliquet nullam
+                                      Unlocking valuable insights with data analysis to drive informed business decisions.
                                   </p>
                                   <a href="service-details.html" class="theme-btn-2 mt-3">
                                       read More
@@ -184,7 +184,6 @@
               </div>
           </div>
       </section>
-
 
       <!-- Contact Section Start -->
       <section class="contact-section fix section-padding">

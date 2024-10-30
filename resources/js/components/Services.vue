@@ -22,7 +22,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="/vendor/assets/img/service/02.jpg" alt="service-img">
+                            <img src="/vendor/assets/img/service/web.jpg" alt="service-img">
                         </div>
                         <div class="icon-2">
                             <img src="/vendor/assets/img/service/icon/s-icon-1.svg" alt="img">
@@ -32,10 +32,10 @@
                                 <img src="/vendor/assets/img/service/icon/s-icon-1.svg" alt="img">
                             </div>
                             <h4>
-                                <a href="service-details.html">Database Security</a>
+                                <a href="service-details.html">Web Development</a>
                             </h4>
                             <p>
-                                accumsan. Pellentesque in magna tincidunt, this is.
+                                Crafting scalable, interactive web applications tailored to drive business growth.
                             </p>
                             <a href="service-details.html" class="theme-btn-2 mt-3">
                                 read More
@@ -47,7 +47,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="/vendor/assets/img/service/03.jpg" alt="service-img">
+                            <img src="/vendor/assets/img/service/cons.jpg" alt="service-img">
                         </div>
                         <div class="icon-2">
                             <img src="/vendor/assets/img/service/icon/s-icon-2.svg" alt="img">
@@ -60,7 +60,7 @@
                                 <a href="service-details.html">IT Consultancy</a>
                             </h4>
                             <p>
-                                accumsan. Pellentesque in magna tincidunt, this is.
+                                Providing expert guidance to optimize technology strategies and streamline operations.
                             </p>
                             <a href="service-details.html" class="theme-btn-2 mt-3">
                                 read More
@@ -72,7 +72,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="/vendor/assets/img/service/04.jpg" alt="service-img">
+                            <img src="/vendor/assets/img/service/mob.jpg" alt="service-img">
                         </div>
                         <div class="icon-2">
                             <img src="/vendor/assets/img/service/icon/s-icon-4.svg" alt="img">
@@ -82,10 +82,10 @@
                                 <img src="/vendor/assets/img/service/icon/s-icon-5.svg" alt="img">
                             </div>
                             <h4>
-                                <a href="service-details.html">App Development</a>
+                                <a href="service-details.html">Mobile App Development</a>
                             </h4>
                             <p>
-                                accumsan. Pellentesque in magna tincidunt, this is.
+                                Developing user-friendly mobile apps to enhance digital reach and customer engagement.
                             </p>
                             <a href="service-details.html" class="theme-btn-2 mt-3">
                                 read More
@@ -97,7 +97,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="service-card-items">
                         <div class="service-image">
-                            <img src="/vendor/assets/img/service/05.jpg" alt="service-img">
+                            <img src="/vendor/assets/img/service/gov.jpeg" alt="service-img">
                         </div>
                         <div class="icon-2">
                             <img src="/vendor/assets/img/service/icon/s-icon-3.svg" alt="img">
@@ -107,10 +107,10 @@
                                 <img src="/vendor/assets/img/service/icon/s-icon-3.svg" alt="img">
                             </div>
                             <h4>
-                                <a href="service-details.html">Database Security</a>
+                                <a href="service-details.html">Government Solutions</a>
                             </h4>
                             <p>
-                                accumsan. Pellentesque in magna tincidunt, this is.
+                                Delivering secure, efficient digital solutions designed for government institutions.
                             </p>
                             <a href="service-details.html" class="theme-btn-2 mt-3">
                                 read More
@@ -134,7 +134,7 @@
                         <div class="content">
                             <span>Call Us Now</span>
                             <h4>
-                                <a href="tel:+2085550112">+208-555-0112</a>
+                                <a href="tel:+8801724141211">+8801724141211</a>
                             </h4>
                         </div>
                     </div>

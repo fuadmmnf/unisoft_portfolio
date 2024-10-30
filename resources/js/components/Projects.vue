@@ -28,11 +28,11 @@
                         <div class="swiper-slide">
                             <div class="project-items style-2">
                                 <div class="project-image">
-                                    <img src="/vendor/assets/img/project/08.jpg" alt="project-img">
+                                    <img src="/vendor/assets/img/project/1.jpeg" alt="project-img">
                                     <div class="project-content style3">
-                                        <p>Technology</p>
+                                        <p>DokanKhata</p>
                                         <h4>
-                                            <a href="project-details.html">Software Development</a>
+                                            <a href="project-details.html">Web+App Development</a>
                                         </h4>
                                         <a href="project-details.html" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -44,11 +44,11 @@
                         <div class="swiper-slide">
                             <div class="project-items style-2">
                                 <div class="project-image">
-                                    <img src="/vendor/assets/img/project/09.jpg" alt="project-img">
+                                    <img src="/vendor/assets/img/project/2.jpg" alt="project-img">
                                     <div class="project-content style3">
-                                        <p>Solutions</p>
+                                        <p>Infoline - BD Smart Seba</p>
                                         <h4>
-                                            <a href="project-details.html">Analytic Solutions</a>
+                                            <a href="project-details.html">Mobile App Development</a>
                                         </h4>
                                         <a href="project-details.html" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -60,11 +60,11 @@
                         <div class="swiper-slide">
                             <div class="project-items style-2">
                                 <div class="project-image">
-                                    <img src="/vendor/assets/img/project/10.jpg" alt="project-img">
+                                    <img src="/vendor/assets/img/project/3.jpg" alt="project-img">
                                     <div class="project-content style3">
-                                        <p>Technology</p>
+                                        <p>Smart Tangail-Doctor&Lifestyle</p>
                                         <h4>
-                                            <a href="project-details.html">Design Solutions</a>
+                                            <a href="project-details.html">Mobile App Development</a>
                                         </h4>
                                         <a href="project-details.html" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>
@@ -76,11 +76,11 @@
                         <div class="swiper-slide">
                             <div class="project-items style-2">
                                 <div class="project-image">
-                                    <img src="/vendor/assets/img/project/11.jpg" alt="project-img">
+                                    <img src="/vendor/assets/img/project/4.jpg" alt="project-img">
                                     <div class="project-content style3">
-                                        <p>Technology</p>
+                                        <p>BACUAV</p>
                                         <h4>
-                                            <a href="project-details.html">Software Development</a>
+                                            <a href="project-details.html">Government Web App</a>
                                         </h4>
                                         <a href="project-details.html" class="arrow-icon-2">
                                             <i class="fa-solid fa-arrow-right"></i>

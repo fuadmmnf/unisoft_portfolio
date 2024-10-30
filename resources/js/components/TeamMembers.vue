@@ -26,7 +26,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="single-team-items">
                         <div class="team-image">
-                            <img src="/vendor/assets/img/team/04.jpg" alt="team-img">
+                            <img src="/vendor/assets/img/team/1.jpg" alt="team-img">
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -39,16 +39,16 @@
                         </div>
                         <div class="team-content text-center">
                             <h3>
-                                <a href="team-details.html">Masirul Islam</a>
+                                <a href="team-details.html">Rezmin Sharmin Tonni</a>
                             </h3>
-                            <p>Web Designer</p>
+                            <p>Founder & CEO</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                     <div class="single-team-items">
                         <div class="team-image">
-                            <img src="/vendor/assets/img/team/05.jpg" alt="team-img">
+                            <img src="/vendor/assets/img/team/5.jpg" alt="team-img">
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -61,16 +61,39 @@
                         </div>
                         <div class="team-content text-center">
                             <h3>
-                                <a href="team-details.html">Jessica Mardol</a>
+                                <a href="team-details.html">Md Razu Prodhan</a>
                             </h3>
-                            <p>Cyber Expert</p>
+                            <p>CTO</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                    <div class="single-team-items">
+                        <div class="team-image">
+                            <img src="/vendor/assets/img/team/5.jpg" alt="team-img">
+                            <div class="social-profile">
+                                <ul>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+
+                                </ul>
+                                <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
+                            </div>
+                        </div>
+                        <div class="team-content text-center">
+                            <h3>
+                                <a href="team-details.html">Jibon Kumar Roy</a>
+                            </h3>
+                            <p>System Analyst</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                     <div class="single-team-items">
                         <div class="team-image">
-                            <img src="/vendor/assets/img/team/06.jpg" alt="team-img">
+                            <img src="/vendor/assets/img/team/2.jpg" alt="team-img">
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -83,16 +106,16 @@
                         </div>
                         <div class="team-content text-center">
                             <h3>
-                                <a href="team-details.html">Arnold Hemingway</a>
+                                <a href="team-details.html">Niaz Ahmed Khan</a>
                             </h3>
-                            <p>Web Expert</p>
+                            <p>Software Engineer</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".9s">
                     <div class="single-team-items">
                         <div class="team-image">
-                            <img src="/vendor/assets/img/team/07.jpg" alt="team-img">
+                            <img src="/vendor/assets/img/team/3.jpg" alt="team-img">
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -105,9 +128,53 @@
                         </div>
                         <div class="team-content text-center">
                             <h3>
-                                <a href="team-details.html">Shikon Haque</a>
+                                <a href="team-details.html">Shahriar Shahed</a>
                             </h3>
-                            <p>Data Analyst</p>
+                            <p>Software Engineer</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".9s">
+                    <div class="single-team-items">
+                        <div class="team-image">
+                            <img src="/vendor/assets/img/team/7.jpg" alt="team-img">
+                            <div class="social-profile">
+                                <ul>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+
+                                </ul>
+                                <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
+                            </div>
+                        </div>
+                        <div class="team-content text-center">
+                            <h3>
+                                <a href="team-details.html">Imran Hossain</a>
+                            </h3>
+                            <p>Software Engineer</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".9s">
+                    <div class="single-team-items">
+                        <div class="team-image">
+                            <img src="/vendor/assets/img/team/4.jpg" alt="team-img">
+                            <div class="social-profile">
+                                <ul>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+
+                                </ul>
+                                <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
+                            </div>
+                        </div>
+                        <div class="team-content text-center">
+                            <h3>
+                                <a href="team-details.html">Alhaz Ahammed</a>
+                            </h3>
+                            <p>QA & UI/UX</p>
                         </div>
                     </div>
                 </div>

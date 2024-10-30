@@ -39,12 +39,12 @@
                             <p>Skilled Experts</p>
                         </div>
                     </div>
-                    <div class="counter-items wow fadeInUp" data-wow-delay=".9s">
+                    <div class="counter-items wow fadeInUp" data-wow-delay=".7s">
                         <div class="icon">
                             <img src="/vendor/assets/img/achievement-icon/04.svg" alt="icon-img">
                         </div>
                         <div class="content">
-                            <h2><span class="counter-number">10+</span>+</h2>
+                            <h2><span class="counter-number">10</span>+</h2>
                             <p>Industries</p>
                         </div>
                     </div>

@@ -6,11 +6,11 @@
                     <ul class="contact-list">
                         <li>
                             <i class="far fa-envelope"></i>
-                            <a href="mailto:info@example.com" class="link">info@example.com</a>
+                            <a href="mailto:unisoft360@gmail.com" class="link">unisoft360@gmail.com</a>
                         </li>
                         <li>
                             <i class="fa-solid fa-phone-volume"></i>
-                            <a href="tel:2086660112">+208-666-0112</a>
+                            <a href="tel:+8801724141211">+8801724141211</a>
                         </li>
                     </ul>
                     <div class="top-right">
@@ -36,7 +36,7 @@
                         <div class="header-left">
                             <div class="logo">
                                 <router-link to="/" class="header-logo">
-                                    <!-- <img src="assets/img/" alt="logo-img"> -->
+                                     <img :src="'vendor/assets/img/logo.png'"  style="max-height: 60px;" alt="logo-img">
                                 </router-link>
                             </div>
                         </div>

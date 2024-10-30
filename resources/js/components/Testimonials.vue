@@ -26,16 +26,19 @@
                             </div>
                             <div class="client-items">
                                 <div class="client-image style-2 bg-cover"
-                                     style="background-image: url('/vendor/assets/img/testimonial/02.jpg');"></div>
+                                     style="background-image: url('/vendor/assets/img/testimonial/1.png');"></div>
                                 <div class="client-content">
-                                    <h4>Kathryn Murphy</h4>
-                                    <p>CEO, Innova Tech Bangladesh</p>
+                                    <h4>Rahat Uddin Azad</h4>
+                                    <p>CEO, Dokankhata Bangladesh</p>
 
                                 </div>
                             </div>
                             <p>
-                                Consectetur adipiscing elit. Integer nunc viverra laoreet est the is porta pretium metus
-                                aliquam eget maecenas porta is nunc viverra Aenean pulvinar maximus leo ”
+                                The collaboration with our partner
+                                UniSoft360 has been a very exciting experience. We highly
+                                value the great competence and the commitment of the InnovaTech team and
+                                are looking forward to further expand our collaboration.
+
                             </p>
                         </div>
                     </div>
@@ -46,16 +49,19 @@
                             </div>
                             <div class="client-items">
                                 <div class="client-image style-2 bg-cover"
-                                     style="background-image: url('/vendor/assets/img/testimonial/03.jpg');"></div>
+                                     style="background-image: url('/vendor/assets/img/testimonial/1.png');"></div>
                                 <div class="client-content">
-                                    <h4>Albert Flores</h4>
-                                    <p>Medical Assistant</p>
+                                    <h4>Md Amzad Hossain</h4>
+                                    <p>CEO, Loyal Ovijatri</p>
 
                                 </div>
                             </div>
                             <p>
-                                Consectetur adipiscing elit. Integer nunc viverra laoreet est the is porta pretium metus
-                                aliquam eget maecenas porta is nunc viverra Aenean pulvinar maximus leo ”
+                                we really liked
+                                Unisofts's commitment and engagement. They came to us with their best
+                                people to try to understand our context and developed the first
+                                prototype with us. They were very professional and very
+                                customer-oriented.
                             </p>
                         </div>
                     </div>
