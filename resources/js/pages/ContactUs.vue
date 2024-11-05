@@ -1,7 +1,6 @@
 <template>
     <div>
         <Breadcrumb :breadcrumb-items="breadcrumbs" :current-title="pageTitle"></Breadcrumb>
-
         <!-- Contact Section Start -->
         <section class="contact-section fix section-padding">
             <div class="container">

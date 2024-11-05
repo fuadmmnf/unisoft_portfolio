@@ -78,8 +78,7 @@
 
         <!--<< Team Section Start >>-->
         <TeamMembers></TeamMembers>
-        <!-- Brand Section Start -->
-        <Brands></Brands>
+
     </div>
 
 
